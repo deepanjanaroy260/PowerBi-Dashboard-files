@@ -1,0 +1,26 @@
+Introduction: This Amazon Prime dashboard provides information about the TV shows and movies released on Amazon prime video.
+
+KPIs used for the dashboard include:
+
+Total tiles: Represents the total number of movies or TV shows released on Amazon Prime Video.
+
+Total ratings: Sum of all ratings given to the content.
+
+Total genres: The number of unique genres represented.
+
+Total directors: Indicates the count of unique directors.
+
+Start date: Represents the date when the first movie was released.
+
+End date: Refers to the last date for which we have data, which is 2021.
+
+The first chart illustrates how movies are divided among different age ratings, such as 13+, 16+, and all. '13+' signifies movies suitable for viewers aged 13 and above, while '16+' indicates movies suitable for viewers aged 16 and above, and so forth. From this data, it's evident that a higher number of movies are produced for audiences aged 13 and above. The chart showcases the top 6 ratings given to movies, represented by a column chart.
+
+Furthermore, the dashboard reveals that the drama genre boasts the highest number of movies. Additionally, it highlights that Prime Video has released more movies than TV shows.
+
+
+
+
+
+
+
